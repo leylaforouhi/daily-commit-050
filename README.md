@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetim
 
 def milestone_message():
     today = datetime.now().strftime("%Y-%m-%d")
